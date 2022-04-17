@@ -14,7 +14,7 @@ const Services = () => {
     return (
         <div className="container my-5">
             <div className="mb-5">
-                <h1>Featured <span className="text-danger">Services</span></h1>
+                <h1>My Most Popular <span className="text-danger">Services</span></h1>
                 <p><small>Most Demanded Services</small></p>
             </div>
             <div className="row row-cols-1 row-cols-md-3 gx-4 gy-4">
