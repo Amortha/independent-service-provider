@@ -5,8 +5,8 @@
 * this Website is  the best and beautifull project.
 * You can singup/login using google or email and password.
 * some services are Example.......
-• Wedding photograpy.
-• Marraige photograpy.
-• Nature photograpy.
-• Sports photograpy.
+1. Wedding photograpy.
+2. Marraige photograpy.
+3. Nature photograpy.
+4. Sports photograpy.
 * This Project create by -Html,Css,Bootstrap,Js React,React Router,Firebase etc.
