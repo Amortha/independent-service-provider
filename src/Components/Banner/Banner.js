@@ -12,11 +12,11 @@ const Banner = () => {
 
                             <div>
                                 <Fade left>
-                                    <h1 className="text-white">Welcome To my Photograpy</h1>
+                                    <h2 className="text-white">WELCOME TO MY BEST PHOTOGRAPY.</h2>
                                     <h3 className="text-primary">CHARLOTTE McCOY</h3>
                                 </Fade>
                             </div>
-                            <h6 className="text-primary">We provide you all kind of medical services,which is best in the city.Our diagnoses <br /> report are the best without any doubt.</h6>
+                            <h5 className="text-primary">This is a Best Photograpy service provider Maker. I can any Photograpy short and excellent all photo Click our service. <br /> and excellent all photo Click our service.</h5>
                         </div>
                     </div>
                 </div>
