@@ -5,12 +5,12 @@ import Details from './Components/Details/Details';
 import Login from './Components/Login/Login';
 import About from './Components/About/About';
 import Header from './Components/Header/Header';
-import Doctors from './Components/Doctors/Doctors';
 import SignUp from './Components/SignUp/SignUp';
 import AuthProvider from './Context/AuthProvider';
 import Footer from './Components/Footer/Footer';
 import PrivateRote from './Components/PrivateRoute/PrivateRoute'
 import NotFound from './Components/NotFound/NotFound';
+import Blogs from './Components/Blogs/Blogs';
 
 function App() {
   return (
@@ -28,8 +28,8 @@ function App() {
           <Route path="/about">
             <About></About>
           </Route>
-          <Route path="/doctors">
-            <Doctors></Doctors>
+          <Route path="/blogs">
+            <Blogs></Blogs>
           </Route>
             <PrivateRote path="/details/:id">
                 <Details></Details>
