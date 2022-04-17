@@ -12,15 +12,17 @@ const About = () => {
                         <div className="row g-0">
                             <div className="col-md-4">
                                         <img src={img1} className="img-fluid rounded-start" alt="..." />
-                                        <h3>Devolopar: Amortho kumar shill</h3>
+                                        <h3>Name: Amortho kumar shill</h3>
+                                        <h3>Learner of programing hero and National university student B.B.S</h3>
+                                        <h3></h3>
                                        
                                         
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
                                 <h1 className="card-title fw-bold"></h1>
-                                <p className="card-text">It is indeed a great pleasure for me to introduce our brand new state – of – the -art technology hospital in the region of Chittagong. Nowadays, if anyone needs good treatment, they need to look forward to Dhaka or Abroad. Because good and well facilitated hospitals are not available in the port city of Chittagong.
-                                                            So, we needed to decentralize and step forward to establish well facilitate and modern hospital in Chittagong city. Moreover, we felt that our integrated Township of Chittagong city, the second capital and largest sea-port of Bangladesh, would be incomplete without a good health care facility like  1994.</p>
+                                <h2>My Dream</h2>
+                                <h5 className="card-text">Hello My Name is Amortha kumar shill. I have good dream for programing related work do. I can my life setup with web Development and computer sience related work todo its my big dreams. My favorite work programing and learn its best work i mena. I can my life a future all time this work with in my everythings.I want to go in four to 5-4 Months to fulfill Drem</h5>
                             </div>
                             </div>
                         </div>
