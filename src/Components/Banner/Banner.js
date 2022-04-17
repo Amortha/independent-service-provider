@@ -12,11 +12,11 @@ const Banner = () => {
 
                             <div>
                                 <Fade left>
-                                    <h1 className="text-dark">Welcome To my Photograpy</h1>
-                                    <h3 className="text-dark">CHARLOTTE McCOY</h3>
+                                    <h1 className="text-white">Welcome To my Photograpy</h1>
+                                    <h3 className="text-primary">CHARLOTTE McCOY</h3>
                                 </Fade>
                             </div>
-                            <h6 className="text-dark">We provide you all kind of medical services,which is best in the city.Our diagnoses <br /> report are the best without any doubt.</h6>
+                            <h6 className="text-primary">We provide you all kind of medical services,which is best in the city.Our diagnoses <br /> report are the best without any doubt.</h6>
                         </div>
                     </div>
                 </div>
