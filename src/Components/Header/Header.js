@@ -13,7 +13,7 @@ const Header = () => {
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
                     <Nav.Link as={Link} to="/home">Home</Nav.Link>
-                    <Nav.Link as={Link} to="/about">About Us</Nav.Link>
+                    <Nav.Link as={Link} to="/about">About me</Nav.Link>
               <Nav.Link as={Link} to="/blogs">Blogs</Nav.Link>
               {
                 user?.email ?
