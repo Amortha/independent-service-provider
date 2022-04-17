@@ -10,7 +10,7 @@ const Service = (props) => {
         <img src={img} className="card-img-top img-fluid" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{name}</h5>
-          <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <p className="card-text">This is a Best Photograpy service provider Maker. I can any Photograpy short and excellent all photo Click our service..</p>
         </div>
         <Link to={`/details/${id}`}>
           <button className="btn-primary mb-3 px-3 py-2 rounded-2"><span className="fw-bold">Details</span></button>

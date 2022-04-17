@@ -29,8 +29,8 @@ const Details = () => {
                         <div className="card-body">
                             <h2 className="card-title fw-bold text-primary">{singlePerson?.name}</h2>
                             <p className="card-text fw-bold">Details:{singlePerson?.description}</p>
-                            <p className="card-text fw-bold">Cost: {singlePerson?.cost}</p>
-                            <p className="card-text fw-bold">It will take: {singlePerson?.time}</p>
+                            <p className="card-text fw-bold">price: {singlePerson?.cost}</p>
+                        
                         </div>
                     </div>
                 </div>
