@@ -1,3 +1,2 @@
-const mission = [
-    
+const mission = [ 
 ]

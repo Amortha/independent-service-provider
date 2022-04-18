@@ -1,4 +1,5 @@
 const services = [
+ 
     {
         id: 1,
         img: "https://cdn.pixabay.com/photo/2016/11/14/03/05/surgery-1822458_960_720.jpg",
