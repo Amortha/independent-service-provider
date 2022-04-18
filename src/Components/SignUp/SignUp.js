@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 import './SingUp.css'
 
+
 const SignUp = () => {
     const { googleSignIn,handleEmail,handlePassword,handleCreateNewUser,handleName,error} = useAuth();
     return (
